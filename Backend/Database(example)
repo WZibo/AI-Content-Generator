@@ -1,0 +1,23 @@
+{
+  "_id": {
+    "$oid": ""
+  },
+  "username": "",
+  "email": "",
+  "password": "",
+  "trialPeriod": 3,
+  "trialActive": true,
+  "apiRequestCount": 0,
+  "payments": [],
+  "history": [],
+  "trialExpires": {
+    "$data": "2030-11-11T01:01:42.601Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-01T01:01:42.612Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T01:01:42.612Z"
+  },
+  "__v": 0
+}
